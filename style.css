@@ -1,0 +1,34 @@
+h1{
+   display: flex;
+   justify-content:space-around;
+   align-items: center;
+   color: rgba(202,224,206,255);
+   padding:0.5em 0.1em 0.1em 0.5em ;             
+ }
+ header{
+    background-color:rgba(50,46,47,255);
+    padding: 0em 1em 1em 1em;
+ }
+.enlaces{
+    color:rgb(43, 26, 26);
+    background-color: rgba(199,221,204,255);
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ a{
+    color:rgb(58, 49, 49) ;
+    text-decoration: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ body{
+    background-color:rgba(117,201,183,255);
+    list-style: ellipse;
+ }
+ aside{
+    background-color:rgb(233, 14, 196);
+ }
+ footer{
+    background-color: yellow;
+ }
