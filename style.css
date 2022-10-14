@@ -29,11 +29,8 @@ h1{
  aside{
     background-color:rgb(233, 14, 196);
  }
- footer{
-    background-color: yellow;
- }
  section{
-   display: flex;
+    display: flex;
    justify-content: space-around;
    background-color: aliceblue;
    align-items: center;
@@ -46,19 +43,22 @@ h1{
    justify-content: center;
  }
  .form{
-   padding: 2em 2.5em 0em 2em;
+   padding: 2em 3.5em 0em 3.5em;
    justify-content: center;
    column-count: 1em;
  }
- footer{
-   display:flex;
-   justify-content: space-between;
-   align-items: center;
- }
+
 p{
    display: flex;
    justify-content: center;
    align-items: center;
    text-align: center;
+}
+.pie{
+   text-align: center;
+}
+footer{
+   background-color: yellow;
+   padding: 1em 1em 1em 1em;
 }
  
